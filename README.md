@@ -1,6 +1,9 @@
 # Gender Detection From Names
 
+**Live Demo**: [https://task-1-classification-project-gender-505q.onrender.com/](https://task-1-classification-project-gender-505q.onrender.com/)
+
 This project uses a simple machine-learning classification model to predict gender from Andhra Pradesh names.
+
 
 ## Files
 
